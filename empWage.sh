@@ -12,4 +12,3 @@ else
 	salary=0;
 fi
 
-#terminal
